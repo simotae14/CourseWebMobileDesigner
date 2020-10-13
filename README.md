@@ -2,7 +2,35 @@
 
 Using the latest best practices in Web Design and Mobile Design as well as User Interface and User Experience Design (UI/UX)
 
+### Resources
 
+Dillinger uses a number of open source projects to work properly:
+
+* [ZTMResources] - ZTM Resources!
+* [Godui] - awesome for goal conversion with succesfull AB tests
+* [awwwards] -to get design Inspirations
+* [Behance] - to see other people portfolios and get inspirations
+* [Unsplash] - for images
+* [thenounproject] and [flaticon] - for icons
+* [Gulp] - the streaming build system
+* [Breakdance](https://breakdance.github.io/breakdance/) - HTML to Markdown converter
+* [jQuery] - duh
+
+
+
+   [ZTMResources]: <https://zerotomastery.io/resources/>
+   [Godui]: <https://goodui.org/>
+   [awwwards]: <https://www.awwwards.com/>
+   [Behance]: <https://www.behance.net/>
+   [Unsplash]: <https://unsplash.com/>
+   [thenounproject]: <https://thenounproject.com/>
+   [flaticon]: <https://www.flaticon.com/>
+   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
+   [jQuery]: <http://jquery.com>
+   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
+   [express]: <http://expressjs.com>
+   [AngularJS]: <http://angularjs.org>
+   [Gulp]: <http://gulpjs.com>
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
 
